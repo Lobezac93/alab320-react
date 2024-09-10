@@ -1,13 +1,13 @@
-import articleImg1 from "./assets/src/components/pics/image-1.jpg"
+import articleImg1 from "../pics/image-1.jpg"
 
 function Article2() {
-    const myImage2 = './src/components/pics/image-1.jpg'
+   
   return (
     <>
       <article>
         <h1>11/11/20</h1>
         <h2>Vintage in Vogue</h2>
-        <img src= {myImage2} alt="blog-1-image" />
+        <img src= {articleImg1} alt="blog-1-image" />
         <p class="drop-cap">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum
           accusantium vitae dolorem, doloribus eos odio esse culpa veritatis

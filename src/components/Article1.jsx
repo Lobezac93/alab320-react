@@ -1,13 +1,13 @@
-
+import articleImg2 from "../pics/image-2.jpg"
 
 function Article1 () {
-    const myImage2 = './src/components/pics/image-2.jpg'
+    
     return(
         <>
         <article>
         <h1>11/12/20</h1>
         <h2>On the Street in Brooklyn</h2>
-        <img src={myImage2} alt="blog-1" />
+        <img src={articleImg2} alt="blog-1" />
         <p class="drop-cap">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum
           accusantium vitae dolorem, doloribus eos odio esse culpa veritatis
