@@ -1,4 +1,4 @@
-
+import articleImg1 from "./assets/src/components/pics/image-1.jpg"
 
 function Article2() {
     const myImage2 = './src/components/pics/image-1.jpg'
